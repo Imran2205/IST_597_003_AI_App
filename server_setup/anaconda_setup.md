@@ -6,7 +6,7 @@ You should be able to use the pre installed anaconda
 ```shell
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/data/shared/.anaconda/anaconda3/bin/conda' 'shell.bash' 'hoo$
+__conda_setup="$('/data/shared/.anaconda/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
