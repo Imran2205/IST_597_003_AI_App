@@ -6,7 +6,7 @@
 - GPU: 2xNVIDIA GeForce GTX 1080 Ti (11GB each)
 
 ## Important Commands
-- [Make ssh command easier](./ssh_config.md)
+- [Ssh command](./ssh_config.md)
 - [Anaconda Installation and Environment Creation](./anaconda_setup.md)
 - [Access Jupyter Notebook from local computer](./jupyter_server.md)
 - [Secure Copy](./scp_commands.md)
